@@ -1,0 +1,180 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 1.67; */
+  letter-spacing: normal;
+  text-align: left;
+  color: #9c9c9c;
+  /* background-color: #fafafa; */
+  font-weight: 300;
+  line-height: 1.69;
+  color: #0c2846;
+}
+
+p {
+  font-size: 13px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+}
+b {
+  font-weight: 700;
+  font-size: 16px;
+}
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+h3.package-h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 1.88;
+}
+
+h5 {
+  font-size: 14px;
+  line-height: 1.29;
+}
+
+h6 {
+  font-size: 12px;
+  line-height: 1.29;
+}
+
+label,
+.label {
+  font-size: 8px;
+  font-stretch: normal;
+  font-style: normal;
+  font-family: monospace;
+  line-height: 1.22;
+  letter-spacing: normal;
+  color: #aaa;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+label {
+  font-size: 14px;
+  font-weight: bold;
+  color: #0c2846;
+}
+button{
+  outline: none;
+  border: none;
+}
+button:focus {
+  outline: 0;
+}
+
+/*============ #Others ===============*/
+.small-container {
+  width: 94%;
+  max-width: 754px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.lite {
+  font-size: 10px;
+  line-height: 1.2;
+  color: #949494;
+}
+
+p.small {
+  font-size: 10px;
+}
+
+p.small-lite {
+  font-size: 11px;
+  line-height: 1.18;
+  color: #b4b4b4;
+}
+.row {
+  margin: 0 !important;
+}
+/*============ End Others ===============*/
+
+/*============ #Header #Navbar ===============*/
+
+@media only screen and (max-width: 992px) {
+  .md-hide {
+    display: none !important;
+  }
+}
+/*============ End Header Navbar ===============*/
+
+/*============ #Bootstrap override ===============*/
+.btn {
+  font-size: 14px;
+}
+.form-control {
+  font-size: 14px;
+}
+.form-group {
+  margin-bottom: 0;
+}
+
+.input-group-text {
+  font-size: 14px;
+}
+
+.custom-select {
+  font-size: 14px;
+}
+/*============ End Bootstrap override ===============*/
+
+/*============ #Login register ===============*/
+
+/*============ End login register ===============*/
+
+/*============ #Triangles ===============*/
+
+/*============ End Triangles ===============*/
+
+/*============ #Subject page ===============*/
+
+/*============ End Subject page ===============*/
+
+@media only screen and (max-width: 768px) {
+  .banners img {
+    width: 100% !important;
+  }
+  .payment-when {
+    width: 100%;
+  }
+  .payment-method {
+    width: 100%;
+  }
+}
