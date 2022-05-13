@@ -1,0 +1,98 @@
+{
+  "CartItem": {
+    "description": "Auto imported from components/CartItem.vue"
+  },
+  "LazyCartItem": {
+    "description": "Auto imported from components/CartItem.vue"
+  },
+  "DetailsModal": {
+    "description": "Auto imported from components/DetailsModal.vue"
+  },
+  "LazyDetailsModal": {
+    "description": "Auto imported from components/DetailsModal.vue"
+  },
+  "LiveChat": {
+    "description": "Auto imported from components/LiveChat.vue"
+  },
+  "LazyLiveChat": {
+    "description": "Auto imported from components/LiveChat.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "MenuSlider": {
+    "description": "Auto imported from components/MenuSlider.vue"
+  },
+  "LazyMenuSlider": {
+    "description": "Auto imported from components/MenuSlider.vue"
+  },
+  "SignUpModal": {
+    "description": "Auto imported from components/SignUpModal.vue"
+  },
+  "LazySignUpModal": {
+    "description": "Auto imported from components/SignUpModal.vue"
+  },
+  "SmallModal": {
+    "description": "Auto imported from components/SmallModal.vue"
+  },
+  "LazySmallModal": {
+    "description": "Auto imported from components/SmallModal.vue"
+  },
+  "TheFooters": {
+    "description": "Auto imported from components/TheFooters.vue"
+  },
+  "LazyTheFooters": {
+    "description": "Auto imported from components/TheFooters.vue"
+  },
+  "TheNavbar": {
+    "description": "Auto imported from components/TheNavbar.vue"
+  },
+  "LazyTheNavbar": {
+    "description": "Auto imported from components/TheNavbar.vue"
+  },
+  "DetailsModals": {
+    "description": "Auto imported from components/detailsModals.vue"
+  },
+  "LazyDetailsModals": {
+    "description": "Auto imported from components/detailsModals.vue"
+  },
+  "ClientsSay": {
+    "description": "Auto imported from components/home/ClientsSay.vue"
+  },
+  "LazyClientsSay": {
+    "description": "Auto imported from components/home/ClientsSay.vue"
+  },
+  "HeaderSearch": {
+    "description": "Auto imported from components/home/HeaderSearch.vue"
+  },
+  "LazyHeaderSearch": {
+    "description": "Auto imported from components/home/HeaderSearch.vue"
+  },
+  "OfferSlider": {
+    "description": "Auto imported from components/home/OfferSlider.vue"
+  },
+  "LazyOfferSlider": {
+    "description": "Auto imported from components/home/OfferSlider.vue"
+  },
+  "TheFooter": {
+    "description": "Auto imported from components/home/TheFooter.vue"
+  },
+  "LazyTheFooter": {
+    "description": "Auto imported from components/home/TheFooter.vue"
+  },
+  "WhyLove": {
+    "description": "Auto imported from components/home/WhyLove.vue"
+  },
+  "LazyWhyLove": {
+    "description": "Auto imported from components/home/WhyLove.vue"
+  },
+  "PaymentWay": {
+    "description": "Auto imported from components/home/paymentWay.vue"
+  },
+  "LazyPaymentWay": {
+    "description": "Auto imported from components/home/paymentWay.vue"
+  }
+}

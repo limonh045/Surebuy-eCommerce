@@ -1,0 +1,23 @@
+[
+  {
+    "name": "search-searchResult",
+    "path": "/search/:searchResult?",
+    "component": "/media/limon/New Volume/best/chaldal-projects/pages/search/_searchResult.vue",
+    "chunkName": "pages/search/_searchResult",
+    "_name": "_756bf1e6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/limon/New Volume/best/chaldal-projects/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_44553c12"
+  },
+  {
+    "name": "catagory",
+    "path": "/:catagory",
+    "component": "/media/limon/New Volume/best/chaldal-projects/pages/_catagory.vue",
+    "chunkName": "pages/_catagory",
+    "_name": "_b61117ce"
+  }
+]

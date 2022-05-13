@@ -44,6 +44,10 @@ export default {
     baseURL: 'https://surebuyn.herokuapp.com/', // Used as fallback if no runtime config is provided
   },
 
+  // axios: {
+  //   baseURL: 'http://localhost:5000', // Used as fallback if no runtime config is provided
+  // },
+
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
   }
